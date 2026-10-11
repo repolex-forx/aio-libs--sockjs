@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/sockjs/commit/eeeb73568a28230b95ef4d17dcc83e234ef6d1eb",
       "git:hexsha": "eeeb73568a28230b95ef4d17dcc83e234ef6d1eb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:11:18.347850+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/sockjs/commit/94d968d280f611f8b443214d56ccc779fd7c0e00",
